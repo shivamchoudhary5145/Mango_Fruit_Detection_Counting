@@ -1,1 +1,1 @@
-# This is Mango Fruit Detection + Counting on custom mango dataset
+# This is Real time webcam Mango Fruit Detection + Counting on custom mango dataset
